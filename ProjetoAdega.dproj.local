@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/13 10:02:34.000.501,=C:\Users\Wellyngton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 10:03:02.000.354,C:\Users\Wellyngton\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitPrincipal.dfm</Transaction>
+    <Transaction>2021/08/13 10:03:02.000.354,C:\Users\Wellyngton\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitPrincipal.pas</Transaction>
+    <Transaction>2021/08/13 10:03:14.000.125,C:\Users\Wellyngton\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Wellyngton\Desktop\Sistema Adega\ProjetoAdega.dproj</Transaction>
+    <Transaction>2021/08/13 10:23:22.000.473,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 10:37:23.000.289,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit2.pas</Transaction>
+    <Transaction>2021/08/13 10:37:57.000.177,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitCadProdutos.dfm</Transaction>
+    <Transaction>2021/08/13 10:37:57.000.177,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitCadProdutos.pas</Transaction>
+    <Transaction>2021/08/13 10:38:23.000.811,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit2.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitDM.dfm</Transaction>
+    <Transaction>2021/08/13 10:38:23.000.811,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit2.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitDM.pas</Transaction>
+    <Transaction>2021/08/13 18:03:05.000.466,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 18:06:19.000.649,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitVenda.pas</Transaction>
+    <Transaction>2021/08/13 18:06:19.000.649,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitVenda.dfm</Transaction>
+    <Transaction>2021/08/13 18:49:40.000.243,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 18:50:44.000.010,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitItensVenda.dfm</Transaction>
+    <Transaction>2021/08/13 18:50:44.000.010,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitItensVenda.pas</Transaction>
+    <Transaction>2021/09/05 20:20:46.000.802,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/09/05 20:22:53.000.071,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitProcurarProduto.dfm</Transaction>
+    <Transaction>2021/09/05 20:22:53.000.071,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitProcurarProduto.pas</Transaction>
+    <Transaction>2021/11/18 15:52:44.000.070,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 15:52:59.000.086,C:\Users\Wellyngton\Desktop\Sistema Adega\unitVendaDiaria.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm</Transaction>
+    <Transaction>2021/11/18 15:52:59.000.086,C:\Users\Wellyngton\Desktop\Sistema Adega\unitVendaDiaria.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 17:09:58.000.808,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 17:10:12.000.954,C:\Users\Wellyngton\Desktop\Sistema Adega\unitVendaSemanal.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/11/18 17:10:12.000.954,C:\Users\Wellyngton\Desktop\Sistema Adega\unitVendaSemanal.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm</Transaction>
+    <Transaction>2021/12/09 14:22:00.000.992,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/12/09 14:41:04.000.682,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitCapital.dfm</Transaction>
+    <Transaction>2021/12/09 14:41:04.000.682,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitCapital.pas</Transaction>
+    <Transaction>2021/12/15 18:51:28.000.929,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/12/15 19:03:52.000.736,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\unitSenhaAdm.pas</Transaction>
+    <Transaction>2021/12/15 19:03:52.000.745,C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\unitSenhaAdm.dfm</Transaction>
+    <Transaction>2021/12/16 18:37:20.000.945,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/12/16 18:52:48.000.246,C:\Users\Wellyngton\Desktop\Sistema Adega\unitRelatorioPix.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2021/12/16 18:52:48.000.257,C:\Users\Wellyngton\Desktop\Sistema Adega\unitRelatorioPix.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm</Transaction>
+    <Transaction>2022/01/11 21:16:36.119,=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:18:38.328,C:\Users\Wellyngton\Desktop\Sistema Adega\unitProdutosVendidos.pas=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:18:38.328,C:\Users\Wellyngton\Desktop\Sistema Adega\unitProdutosVendidos.dfm=C:\Users\Wellyngton\Desktop\Sistema Adega\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
